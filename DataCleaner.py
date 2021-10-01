@@ -169,3 +169,4 @@ class DataCleaner:
 			csvWriter.writerows(self.data)
 
 
+			
